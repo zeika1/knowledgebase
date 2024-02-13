@@ -1,8 +1,8 @@
-ping [option] [hostname] or [IP address]
+`ping [option] [hostname] or [IP address]`
 
 example
 
-ping google.com
+`ping google.com`
 
 1. from: The destination and its IP address. Note that the IP address may be different for a website depending on your geographical location.
 
