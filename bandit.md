@@ -1,2 +1,0 @@
-#commands for bandit ssh
-
